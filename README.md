@@ -1,0 +1,1 @@
+# Auto-Confirmation-Mail-Script
